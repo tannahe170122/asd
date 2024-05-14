@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\1. M\u00D4N H\u1ECCC\\8. PRN\\Assignment 1\\61\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25401C29-FEFB-4A65-9578-6F288B884D2D}|61\\61.csproj|c:\\users\\admin\\documents\\1. m\u00F4n h\u1ECDc\\8. prn\\assignment 1\\61\\61\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25401C29-FEFB-4A65-9578-6F288B884D2D}|61\\61.csproj|solutionrelative:61\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\1. M\u00D4N H\u1ECCC\\8. PRN\\Assignment 1\\61\\61\\Program.cs",
+              "RelativeDocumentMoniker": "61\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\1. M\u00D4N H\u1ECCC\\8. PRN\\Assignment 1\\61\\61\\Program.cs",
+              "RelativeToolTip": "61\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:29:00.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\bin\Debug\net8.0\78.exe
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\bin\Debug\net8.0\78.deps.json
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\bin\Debug\net8.0\78.runtimeconfig.json
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\bin\Debug\net8.0\78.dll
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\bin\Debug\net8.0\78.pdb
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\78.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\78.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\78.AssemblyInfo.cs
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\78.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\78.dll
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\refint\78.dll
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\78.pdb
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\78.genruntimeconfig.cache
+C:\Users\admin\Documents\1. MÔN HỌC\8. PRN\Assignment 1\78\78\obj\Debug\net8.0\ref\78.dll
